@@ -1,0 +1,3 @@
+#!/bin/bash 
+cd /home/harsh
+touch abc.dat
